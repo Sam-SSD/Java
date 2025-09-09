@@ -1,4 +1,4 @@
-package riwence.day_1.ATM;
+package Riwence.day_1.ATM;
 
 import java.text.NumberFormat;
 import java.util.Locale;

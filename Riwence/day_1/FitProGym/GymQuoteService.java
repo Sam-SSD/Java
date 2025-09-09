@@ -1,4 +1,4 @@
-package riwence.day_1.FitProGym;
+package Riwence.day_1.FitProGym;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package riwence.day_1.FitProGym;
+package Riwence.day_1.FitProGym;
 
 public record Member(String name, int age, double height, double weight, String plan, boolean firstTime) {
 

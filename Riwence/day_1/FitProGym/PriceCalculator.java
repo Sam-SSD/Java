@@ -1,4 +1,4 @@
-package riwence.day_1.FitProGym;
+package Riwence.day_1.FitProGym;
 
 public class PriceCalculator {
     private static final double BASIC_PRICE = 80.0;

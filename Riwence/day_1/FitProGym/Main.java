@@ -1,4 +1,4 @@
-package riwence.day_1.FitProGym;
+package Riwence.day_1.FitProGym;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package riwence.day_2.loops;
+package Riwence.day_2.loops;
 
 
 import java.util.ArrayList;

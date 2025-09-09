@@ -1,4 +1,4 @@
-package riwence.day_1.ATM;
+package Riwence.day_1.ATM;
 
 public class ATMachine {
     private final BankAccount account;
