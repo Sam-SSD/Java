@@ -37,7 +37,7 @@ public class Main {
 
         //Final
 
-        int [] goldCuantity = {1122, 2233, 4455};
+        int [] goldQuantity = {1122, 2233, 4455};
 
         ArrayList<String> names = new ArrayList<>();
         names.add("John");
@@ -45,9 +45,9 @@ public class Main {
         names.add("Jessica");
 
         HashMap<Integer, String> studentNames = new HashMap<>();
-        studentNames.put(goldCuantity[0], names.getFirst());
-        studentNames.put(goldCuantity[1], names.get(1));
-        studentNames.put(goldCuantity[2], names.getLast());
+        studentNames.put(goldQuantity[0], names.getFirst());
+        studentNames.put(goldQuantity[1], names.get(1));
+        studentNames.put(goldQuantity[2], names.getLast());
 
         System.out.println(studentNames);
         int maxGold = 0;
@@ -56,6 +56,6 @@ public class Main {
                 maxGold = key;
             }
         }
-        System.out.println("The student with the highest goldCuantity is " + studentNames.get(maxGold) + " with: " + maxGold + " goldCuantity.");
+        System.out.println("The student with the highest gold quantity is " + studentNames.get(maxGold) + " with: " + maxGold + " goldCuantity.");
     }
 }
